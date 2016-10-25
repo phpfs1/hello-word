@@ -1,2 +1,3 @@
 # hello-word
-just say hello
+hi fs:
+  cs
